@@ -85,7 +85,7 @@
     height: 70px;
   }
   .text1{
-    font-weight: 300;
+    font-weight: 700;
     color: white;
     font-size: 20px;
     margin: 50px;
@@ -199,4 +199,22 @@
   background-color: #efab47;
   border-radius: 50%;
  
+}
+.text4{
+  color: white;
+}
+.div5{
+  background-image: url(/images/ggggg-min.jpg);
+  display: flex;
+}
+.pic3{
+  height: 500px;
+  margin-top: 50px;
+}
+.text5{
+  color: white;
+  margin-left: 75px;
+  font-size: 20px;
+  font-weight: 600;
+  width: 600px;
 }
